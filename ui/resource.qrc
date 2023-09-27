@@ -1,5 +1,7 @@
 <RCC>
   <qresource prefix="images">
+    <file>assest/compress_25px.png</file>
+    <file>assest/delete_25px.png</file>
     <file>assest/back.jpg</file>
   </qresource>
   <qresource prefix="icons">
